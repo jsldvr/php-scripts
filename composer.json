@@ -1,0 +1,7 @@
+{
+    "name": "jsldvr/php-scripts",
+    "description": "A collection of PHP scripts.",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {}
+}
